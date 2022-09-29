@@ -22,18 +22,18 @@
 <p>codi</p>
 <img src="https://user-images.githubusercontent.com/91148993/192816393-1feb8d23-25f2-4edc-aff4-b46949521dad.png">
 <p>resultats</p>
-<img src="https://user-images.githubusercontent.com/91148993/192818128-0aa4832c-55c0-43e8-b435-f960f683ffd7.png">
+<img src="https://user-images.githubusercontent.com/91148993/193053477-c4047e6c-f460-4bfc-832e-f704a1a5f684.png">
 <p>codi</p>
 <img src="https://user-images.githubusercontent.com/91148993/192819570-af2bb91d-1370-4c2b-b04c-35bfd0dc1908.png">
 <p>resultats</p>
-<img src="https://user-images.githubusercontent.com/91148993/192821383-c5e78a32-f290-4206-aba7-a8d6749fff6b.png">
+<img src="https://user-images.githubusercontent.com/91148993/193055658-1bd88d53-fa62-44fd-9c90-b6d9852e11c5.png">
 <h3>selects ciutats</h3>
 <p>codi</p>
 <img src="https://user-images.githubusercontent.com/91148993/192821915-c402a36a-fef6-4162-a85c-92aac14d02c4.png">
 <p>resultats</p>
-<img src="https://user-images.githubusercontent.com/91148993/192822107-e9340c17-2550-4b32-b5b9-c4a125325f4a.png">
+<img src="https://user-images.githubusercontent.com/91148993/193052944-eec0ced7-d4fb-4d62-84b3-6858cd91da0e.png">
 <p>codi</p>
 <img src="https://user-images.githubusercontent.com/91148993/192825991-de096842-117f-4d72-8c3f-03ce08b6a4cf.png">
 <p>resultats</p>
-<img src="https://user-images.githubusercontent.com/91148993/192826132-f52c777d-9291-47bd-a774-a7c4a7d68bff.png">
+<img src="https://user-images.githubusercontent.com/91148993/193052570-033d7638-4ac5-494e-87c8-4567fca970f7.png">
 
