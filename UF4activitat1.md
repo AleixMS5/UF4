@@ -1,4 +1,4 @@
-<h3>Creació de la bd</h3>
+<h2>Creació de la bd</h2>
 <p>creem la base de dades</p>
 <p>
  <img src="https://user-images.githubusercontent.com/91148993/192801799-975397b4-181e-4309-b2f3-3bb159f1236b.png">
@@ -17,8 +17,8 @@
 <img src="https://user-images.githubusercontent.com/91148993/192810282-8099b888-2b5c-499d-9778-11c57e1bc973.png"
 >
 
-<h3>Selects</h3>
-<h4>selects estats</h4>
+<h2>Selects</h2>
+<h3>selects estats</h3>
 <p>codi</p>
 <img src="https://user-images.githubusercontent.com/91148993/192816393-1feb8d23-25f2-4edc-aff4-b46949521dad.png">
 <p>resultats</p>
@@ -27,7 +27,7 @@
 <img src="https://user-images.githubusercontent.com/91148993/192819570-af2bb91d-1370-4c2b-b04c-35bfd0dc1908.png">
 <p>resultats</p>
 <img src="https://user-images.githubusercontent.com/91148993/192821383-c5e78a32-f290-4206-aba7-a8d6749fff6b.png">
-<h4>selects ciutats</h4>
+<h3>selects ciutats</h3>
 <p>codi</p>
 <img src="https://user-images.githubusercontent.com/91148993/192821915-c402a36a-fef6-4162-a85c-92aac14d02c4.png">
 <p>resultats</p>
