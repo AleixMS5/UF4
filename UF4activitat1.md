@@ -1,3 +1,4 @@
+<h1>FASE 1</h1>
 <h2>Creació de la bd</h2>
 <p>creem la base de dades</p>
 <p>
@@ -37,3 +38,4 @@
 <p>resultats</p>
 <img src="https://user-images.githubusercontent.com/91148993/193052570-033d7638-4ac5-494e-87c8-4567fca970f7.png">
 
+<h1>FASE 2</h1>
